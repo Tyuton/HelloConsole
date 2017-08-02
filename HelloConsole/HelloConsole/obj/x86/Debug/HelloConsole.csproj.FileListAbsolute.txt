@@ -1,0 +1,5 @@
+/Users/tyuton/Projects/HelloConsole/HelloConsole/bin/Debug/HelloConsole.exe
+/Users/tyuton/Projects/HelloConsole/HelloConsole/bin/Debug/HelloConsole.pdb
+/Users/tyuton/Projects/HelloConsole/HelloConsole/obj/x86/Debug/HelloConsole.csproj.CoreCompileInputs.cache
+/Users/tyuton/Projects/HelloConsole/HelloConsole/obj/x86/Debug/HelloConsole.exe
+/Users/tyuton/Projects/HelloConsole/HelloConsole/obj/x86/Debug/HelloConsole.pdb
